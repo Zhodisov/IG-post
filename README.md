@@ -14,6 +14,9 @@
 </div>
 
 
+
+
+
 # IG-post
 Full instagram bot, using proxyless and captcha exception including auto posting, commenting and promoting ads
 ![392911025-a28ba526-3a12-426d-b0a9-fa4060d6f028](https://github.com/user-attachments/assets/1aaf6537-4b4d-416a-b0b3-d3dfbb04ea9e)
